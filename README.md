@@ -13,7 +13,7 @@
 
 <summary>🤝 <b>To connect with me</b></summary>
 
-<a href="mailto:melisasannne@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="mailto:melisasannn@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/melisa-san/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/melisasannn/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/melisasan01) 
