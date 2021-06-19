@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-<p align="center"> I am Melisa SAN. I Love programming❤️ and have just graduated from Cukurova University in Turkey. </p>
+<p align="center"> I am Melisa SAN, I am 23. I Love programming❤️ and have just graduated from Cukurova University, departmant of Computer Engineering. </p>
 
 
 <img align ="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
